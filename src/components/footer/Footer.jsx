@@ -16,7 +16,7 @@ const Footer = () => {
     <StyledFooter>
       <div className="container">
         <CopyrightText>
-          &copy; {new Date().getFullYear()} PassBy. Todos os direitos
+          &copy; {new Date().getFullYear()} HealSphere Technologies. Todos os direitos
           reservados.
         </CopyrightText>
       </div>

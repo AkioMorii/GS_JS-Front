@@ -21,7 +21,7 @@ export default class NavbarComp extends Component {
         <div>
           <Protect>
             <Navbar>
-              <Navbar.Brand className="Logo">Passby</Navbar.Brand>
+              <Navbar.Brand className="Logo">HealSphere</Navbar.Brand>
               <Navbar.Toggle aria-controls="navbarScroll" />
               <Navbar.Collapse id="navbarScroll">
                 <Nav className="HeaderWrapper">

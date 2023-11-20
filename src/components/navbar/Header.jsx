@@ -43,7 +43,7 @@ function Header() {
     <>
       <GlobalStyles />
       <HeaderWrapper>
-        <Logo>PASSBY</Logo>
+        <Logo>HealSphere</Logo>
         <NavLinks>
           <ul>
             <li>
