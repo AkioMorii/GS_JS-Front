@@ -1,13 +1,15 @@
+$bgPadrao:#e5e5e5;
+
 .LinksConteiner {
   width: 100%;
   justify-content: center;
   padding-right: 50px;
-  background-color: #e5e5e5;
-  border-radius: 5px;
+  background-color: $bgPadrao;
+  border-radius: 5px
 }
 
 .Logo {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 38px;
   margin: 0;
-}/*# sourceMappingURL=Navbar.css.map */
+}
