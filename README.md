@@ -1,12 +1,10 @@
 # React + Vite
 
-Orlando Akio Morii Cardoso RM: 98067 Turma: 1ESPV
-Pedro Henrique Alves Guariente RM: 550301 Turma: 1ESPV
-David de Medeiros Pacheco Junior RM: 551462 Turma: 1ESPV
-Kaique Maia Reis Silva RM: 552112 Turma: 1ESPV
 Luan Nijou RM: 98920 Turma: 1ESPV
+Orlando Akio Morii Cardoso RM: 98067 Turma: 1ESPV
 
 Dependencias do projeto são:
+node_modules
 react
 styled-components
 react-parallax
@@ -18,4 +16,5 @@ React, {useEffect}
 React, {useState}
 React, { Component }
 
-Preencher a tela de cadastro e adicionar senha e email de sua escolha
+Informação de acesso:
+Preencher a tela de cadastro clicando em "criar conta" e adicionar senha e email de sua escolha.
